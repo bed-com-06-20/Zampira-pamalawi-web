@@ -62,3 +62,7 @@ p1{
     position: top;
     padding: .5em;
 }
+
+#teams :hover{
+    color: yellow;
+}
